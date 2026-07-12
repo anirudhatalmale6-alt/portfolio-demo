@@ -1,0 +1,101 @@
+[
+  {
+    "slug": "meridian-coffee",
+    "title": "Meridian Coffee",
+    "category": "Brand Identity",
+    "year": "2025",
+    "description": "A complete identity for a single-origin roastery — wordmark, packaging system, and a stencil-inspired display face used across the retail estate.",
+    "alt": "Meridian Coffee brand identity — stacked typographic poster in warm cream and terracotta",
+    "width": 1600,
+    "height": 2000,
+    "featured": false
+  },
+  {
+    "slug": "northline-type",
+    "title": "Northline Type",
+    "category": "Typeface Design",
+    "year": "2025",
+    "description": "A condensed grotesque drawn for editorial headlines. Six weights, tightly fitted, built to hold a front page without shouting.",
+    "alt": "Northline typeface specimen — condensed grotesque lettering on a dark ground",
+    "width": 1600,
+    "height": 1200,
+    "featured": false
+  },
+  {
+    "slug": "kite-festival",
+    "title": "Kite Festival",
+    "category": "Poster Series",
+    "year": "2024",
+    "description": "Twelve screen-printed posters for an annual coastal festival. Each print reuses one grid and one ink change.",
+    "alt": "Kite Festival poster — geometric circle and rule composition in muted blue",
+    "width": 1600,
+    "height": 2000,
+    "featured": false
+  },
+  {
+    "slug": "studio-alba",
+    "title": "Studio Alba",
+    "category": "Visual Identity",
+    "year": "2024",
+    "description": "Identity and stationery for an architecture practice. A modular grid mark that rearranges to sit on any format.",
+    "alt": "Studio Alba visual identity — modular grid of squares in olive and stone",
+    "width": 1600,
+    "height": 1600,
+    "featured": false
+  },
+  {
+    "slug": "field-notes",
+    "title": "Field Notes",
+    "category": "Editorial Design",
+    "year": "2024",
+    "description": "Art direction and layout for a quarterly journal on landscape and ecology. 96 pages, two inks, one typeface.",
+    "alt": "Field Notes editorial spread — diagonal colour fields in crimson and charcoal",
+    "width": 1600,
+    "height": 1200,
+    "featured": true
+  },
+  {
+    "slug": "halcyon-records",
+    "title": "Halcyon Records",
+    "category": "Album Artwork",
+    "year": "2023",
+    "description": "Sleeve artwork for a nine-record ambient series. Concentric arcs mapped to the running time of each side.",
+    "alt": "Halcyon Records album artwork — concentric arcs in ink blue and off-white",
+    "width": 1600,
+    "height": 1600,
+    "featured": false
+  },
+  {
+    "slug": "terra-botanics",
+    "title": "Terra Botanics",
+    "category": "Packaging",
+    "year": "2023",
+    "description": "Packaging for a botanical skincare range. Uncoated stock, blind deboss, and a strict two-colour palette.",
+    "alt": "Terra Botanics packaging design — stacked bars in warm sand and clay",
+    "width": 1600,
+    "height": 2000,
+    "featured": false
+  },
+  {
+    "slug": "civic-museum",
+    "title": "Civic Museum",
+    "category": "Wayfinding",
+    "year": "2023",
+    "description": "A wayfinding system for a city museum. Large-format signage, floor plates, and a pictogram set drawn from scratch.",
+    "alt": "Civic Museum wayfinding — bold diagonal signage panels in amber and black",
+    "width": 1600,
+    "height": 1200,
+    "featured": false
+  },
+  {
+    "slug": "ember-ash",
+    "title": "Ember & Ash",
+    "category": "Brand Identity",
+    "year": "2022",
+    "description": "Identity for a wood-fired restaurant. Hand-cut letterforms, warm neutrals, and a menu system that ages with the room.",
+    "alt": "Ember & Ash brand identity — circular mark in ember red over a rule",
+    "width": 1600,
+    "height": 1600,
+    "featured": false
+  }
+]

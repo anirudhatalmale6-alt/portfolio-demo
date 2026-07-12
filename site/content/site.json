@@ -1,0 +1,17 @@
+{
+  "name": "Studio Name",
+  "role": "Graphic Designer",
+  "location": "London",
+  "tagline": "Identity, editorial and type design for people who care how it is made.",
+  "bio_lead": "I design identities, books and typefaces. Twelve years of it, mostly for cultural institutions, independent brands and publishers who want the work to outlast the trend it was made in.",
+  "bio_body": "The process is unfashionably slow at the start and very fast at the end. I read the brief properly, draw a lot, throw most of it away, and hand over a system you can actually run without me. Available for commissions and collaborations.",
+  "email": "hello@example.com",
+  "domain": "https://example.com",
+  "seo_title": "Studio Name — Graphic Designer | Identity, Editorial & Type",
+  "seo_description": "Portfolio of Studio Name, a graphic designer working in brand identity, editorial design and typeface design for cultural institutions and independent brands.",
+  "socials": [
+    { "label": "Instagram", "url": "#" },
+    { "label": "Behance", "url": "#" },
+    { "label": "LinkedIn", "url": "#" }
+  ]
+}
