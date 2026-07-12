@@ -7,7 +7,7 @@ import os
 import random
 from PIL import Image, ImageDraw, ImageFont
 
-OUT = os.path.join(os.path.dirname(__file__), "..", "site", "assets", "img")
+OUT = os.path.join(os.path.dirname(__file__), "..", "assets", "img")
 os.makedirs(OUT, exist_ok=True)
 
 F_BOLD = "/usr/share/fonts/truetype/liberation/LiberationSans-Bold.ttf"
